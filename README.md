@@ -1,5 +1,5 @@
 # Able to Add And Update Notes with React !
-
+Tech stack used MERN 
 
 # Getting Started with Create React App
 
