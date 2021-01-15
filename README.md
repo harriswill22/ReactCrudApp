@@ -1,6 +1,8 @@
 # Able to Add And Update Notes with React !
 Tech stack used MERN 
 
+run node js to start server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
